@@ -12,8 +12,8 @@ Then just run the main.
 
 ### Example
 
-![in.jpg : Photo by Richard Brutyo on Unsplash](example/in.jpg)
-*Photo by Richard Brutyo on Unsplash https://unsplash.com/photos/Sg3XwuEpybU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink*
+<img src="example/in.jpg" alt="in.jpg : Photo by Richard Brutyo on Unsplash" width="250"/><br/>
+*Photo by Richard Brutyo on Unsplash <br/> https://unsplash.com/photos/Sg3XwuEpybU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink*
 
 ```
 url = "www.github.com"
